@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActionBar e Menu</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="sobre">Sobre</string>
+    <string name="sair">Sair</string>
+    <string name="clicou_em_add">clicou em adicionar</string>
+    <string name="criado_por">Criado por Alexandre Vogel</string>
+    <string name="outro_titulo">Outro título</string>
+    <string name="algum_subTitulo">Algum subtiulo</string>
+</resources>
